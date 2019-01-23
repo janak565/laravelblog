@@ -63,3 +63,5 @@ For all requests or quotes on Marketing or Project Management consulting, please
 ### License
 
 This project and the underlying Laravel framework are open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+https://github.com/jacurtis/laravel-blog-tutorial
